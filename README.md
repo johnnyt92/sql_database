@@ -14,8 +14,8 @@ When the user inputs the quantity, the application will check to make sure we ca
 
 ![Error](https://github.com/johnnyt92/sql_database/blob/master/images/snip5.PNG)
 
-a total is given to the customer.
-The stock is then removed from our inventory and the SQL database is updated with the new stock quantity (stock quantity - user's quantity)
+
+The stock is then removed from our inventory and the SQL database is updated with the new stock quantity (stock quantity - user's quantity).
 
 ![Quantity Update](https://github.com/johnnyt92/sql_database/blob/master/images/snip4.PNG)
 
